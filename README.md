@@ -1,45 +1,50 @@
-# Ayush Wase's Data Science Portfolio
+# Portfolio Website - [AYUSH WASE]
 
-Welcome to my personal data science portfolio! Here you will find a collection of projects that showcase my skills, expertise, and passion for data science. Each project is accompanied by a brief description, detailing the problem statement, methodologies used, and key insights gained.
+## Overview
 
-## Table of Contents
-
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Contact Information](#contact-information)
+Welcome to my portfolio website! I am a **Data Analyst** with a passion for turning data into actionable insights. This website showcases my skills, experience, education, projects, and provides a way to get in touch with me.
 
 ## About Me
 
-I am a dedicated data scientist with a keen interest in solving real-world problems using data-driven approaches. My journey in data science began [mention how your journey started, your background, any relevant education or experiences]. I am proficient in various tools and technologies, including Python, R, SQL, machine learning algorithms, data visualization libraries, and more.
+I am a dedicated Data Analyst with a strong foundation in data analysis, statistical modeling, and data visualization. With expertise in tools like Python, SQL, and Machine Learning, I strive to deliver impactful solutions that drive business decisions. I am also proficient in creating interactive dashboards using Power BI to present data in a visually compelling way.
 
-## Projects
+## Skills & Tools
 
-### Project 1: [Project Title]
+- **Programming Languages**: Python, SQL
+- **Data Analysis**: Pandas, NumPy, Scikit-learn
+- **Data Visualization**: Power BI, Matplotlib, Seaborn
+- **Machine Learning**: Regression, Classification, Clustering
+- **Databases**: MySQL, PostgreSQL
+- **Web Development**: HTML, CSS, SCSS, JavaScript
 
-**Description:** [Brief overview of the project, including the problem statement and objectives.]
+## Resume
 
-**Technologies Used:** [List of technologies, tools, and libraries used in the project.]
+You can download my resume [here](link-to-your-resume).
 
-**Key Achievements:** [Highlight key achievements or insights gained from the project.]
+## Education
 
-**GitHub Repository:** [Link to the GitHub repository for the project.]
+- **Bachelor of Engineering in Artificial Intelligence**  
+  G. H. Raisoni College of Engineering  
+  [2024]
 
-### Project 2: [Project Title]
+## Contact
 
-**Description:** [Brief overview of the project, including the problem statement and objectives.]
+Feel free to reach out to me:
 
-**Technologies Used:** [List of technologies, tools, and libraries used in the project.]
+- **Email**: [ayush.developer10.com]
+- **LinkedIn**: [https://www.linkedin.com/in/ayushwase/]
+- **GitHub**: [https://github.com/AyushAI]
 
-**Key Achievements:** [Highlight key achievements or insights gained from the project.]
+## Technology Stack
 
-**GitHub Repository:** [Link to the GitHub repository for the project.]
+This website is built using:
 
-[Repeat this structure for each project in your portfolio.]
+- **HTML**
+- **CSS**
+- **SCSS**
+- **JavaScript**
 
-## Contact Information
+## License
 
-- **Email:** [ayush.developer10@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/ayushwase/]
-- **GitHub:** [https://github.com/AyushAI]
-
-Feel free to reach out to me via email or connect with me on LinkedIn. I am open to collaboration opportunities and eager to discuss any projects or ideas you may have.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Copyright ©2024 All rights reserved | This template is made with  by Colorlib
